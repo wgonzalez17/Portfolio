@@ -1,43 +1,43 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "William Gonzalez",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "picture": "https://github.com/wgonzalez17.png",
+    "email": "wgonzalez1768@yahoo.com",
+    "phone": "502-682-8856",
+    "website": "https://wgonzalez17.github.io",
+    "summary": "A student, with beginner (getting close to intermediate) knowledge about tech, taking online classes at Sullivan University to get an associates degree in Information Technology expected to graduate in June 2026.",
+    "location": { "address": "", "postalCode": "40065", "city": "Shelbyville", "countryCode": "USA", "region": "" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "wgonzalez17", "url": "http://github.com/wgonzalez17" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Homelab" },
+    { "name": "Programming" },
+    { "name": "Computer Tweaking" },
+    { "name": "Video Games" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C#", "PHP", "HTML", "CSS" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "Ubuntu" ]
+    },
+    {
+      "name": "Virtualization Experiences",
+      "keywords": ["Docker", "Hyper-V", "VM-Ware", "Proxmox"]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "institution": "Sullivan University, Louisville, KY",
+      "area": "Computer Science in Information Technology",
+      "studyType": "IT",
+      "startDate": "2024-06-24",
       "endDate": "Present",
       "courses": [
       ]
@@ -45,27 +45,16 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Nifco America",
+      "position": "IT Operations Specialist",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2025-09-03",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "IT associate working in a help desk group",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
-    },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Create and manage accounts for associates",
+        "Setup and deploy devices and printers",
+        "Troubleshoot device issues"
       ]
     }
   ],
