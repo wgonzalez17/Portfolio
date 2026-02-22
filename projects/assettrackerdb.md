@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/assettrackerdblogo.jpg
 title: "Database Asset Tracker"
 date: 2026-02-22
 published: true
