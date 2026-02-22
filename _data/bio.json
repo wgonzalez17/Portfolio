@@ -57,7 +57,7 @@
         "Troubleshoot device issues"
       ]
     }
-  ],
+  ]<!-- ,
   "volunteer": [
     {
       "organization": "Center for Renewable Energy and Island Sustainability",
@@ -103,5 +103,5 @@
     {
       "name": "Available upon request"
     }
-  ]
+  ] -->
 }
