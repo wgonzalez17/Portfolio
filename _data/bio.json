@@ -9,8 +9,8 @@
     "summary": "A student, with beginner (getting close to intermediate) knowledge about tech, taking online classes at Sullivan University to get an associates degree in Information Technology expected to graduate in June 2026.",
     "location": { "address": "", "postalCode": "40065", "city": "Shelbyville", "countryCode": "USA", "region": "" },
     "profiles": [
-      { "network": "github", "username": "wgonzalez17", "url": "http://github.com/wgonzalez17" },
-      { "network": "linkedin", "username": "William Gonzalez", "url": "http://linkedin.com/in/wgonzalez17" }
+      { "network": "github", "username": "wgonzalez17", "url": "https://github.com/wgonzalez17" },
+      { "network": "linkedin", "username": "William Gonzalez", "url": "https://www.linkedin.com/in/wgonzalez17" }
     ]
   },
   "interests": [
